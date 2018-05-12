@@ -1,0 +1,32 @@
+_repo: Country-Neighbors_24540
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 24540-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brown, Alice
+    birthdate: 1857
+    deathdate: 1948
+    gutenberg_agent_id: '1688'
+    url: http://www.gutenberg.org/2009/agents/1688
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Brown_%28writer%29
+description: ''
+gutenberg_issued: '2008-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24540'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American fiction -- 20th century'
+- !lcsh 'Country life -- Fiction'
+tableOfContents: The play house -- His first wife -- A flower of April -- The auction
+  -- Saturday night -- A grief deferred -- The challenge -- Partners -- Flowers of
+  paradise -- Gardener Jim -- The silver tea-set -- The other Mrs. Dill -- The advocate
+  -- The masquerade -- A poetess in spring -- The master minds of history.
+title: Country Neighbors
+url: http://www.gutenberg.org/ebooks/24540
